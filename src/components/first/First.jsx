@@ -61,7 +61,7 @@ export const First = () => {
         </BottomNavigation>
       </Box>
       <div className='button'>
-        <Button variant='contained'>View table</Button>
+        <Button variant='contained'>view table</Button>
       </div>
       </Container>
     </>
